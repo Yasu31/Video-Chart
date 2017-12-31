@@ -1,0 +1,74 @@
+body{
+  width: 1200px;
+}
+
+.t00{
+  position: absolute;
+  top:0px;
+  left:0px;
+  width: 1200px;
+  z-index: -100;
+  border: 0px;
+  border-radius: 0px
+}
+h1{
+  text-align: right;
+  margin: 30px;
+  margin-right: 70px;
+  font-family: fantasy;
+}
+h1 span{
+  background-color: #bab409;
+}
+img {
+  border: 10px outset rgba(104, 35, 3,0.7);
+  border-radius: 40px;
+}
+figcaption{
+  background-color: rgba(0,0,0,0.7);
+  font-family: sans-serif;;
+  font-size: 18px;
+  color: white;
+}
+.t1{
+  position: absolute;
+  width: 350px;
+  top: 30px;
+  left: 0px;
+}
+
+.t2{
+  position:  absolute;
+  width: 350px;
+  top: 205px;
+  left: 386px;
+}
+
+.t3{
+  position: absolute;
+  width: 350px;
+  top: 290px;
+  left: 780px;
+}
+
+.t4{
+  position: absolute;
+  width: 350px;
+  top: 400px;
+  left: 0px;
+}
+
+
+.t5{
+  position: absolute;
+  width: 350px;
+  top: 520px;
+  left: 386px;
+}
+
+.t6{
+  position: absolute;
+  width: 350px;
+  top: 620px;
+ left: 780px;
+}
